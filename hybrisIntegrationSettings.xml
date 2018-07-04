@@ -1,0 +1,10 @@
+<application>
+  <component name="HybrisApplicationSettings">
+    <option name="allowedSendingPlainStatistics" value="true" />
+    <option name="usedActions">
+      <set>
+        <option value="OPEN_PROJECT" />
+      </set>
+    </option>
+  </component>
+</application>

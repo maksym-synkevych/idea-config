@@ -1,0 +1,8 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="ConsoleView.ClearAll">
+    <keyboard-shortcut first-keystroke="ctrl numpad2" />
+  </action>
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="ctrl numpad6" />
+  </action>
+</keymap>

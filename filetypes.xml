@@ -1,8 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <removed_mapping ext="ftl" type="FTL" />
-      <mapping ext="ftl" type="HTML" />
       <mapping pattern="gradlew" type="PLAIN_TEXT" />
       <mapping pattern="api-management-service" type="PLAIN_TEXT" />
       <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />

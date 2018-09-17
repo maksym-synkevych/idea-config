@@ -1,0 +1,12 @@
+<templateSet group="user">
+  <template name="tc" value="@Nested&#10;@DisplayName(&quot;Method description&quot;)&#10;class MethodName {&#10;&#10;    @Test&#10;    @DisplayName(&quot;When then&quot;)&#10;    void shouldWhen() {&#10;        when();&#10;        &#10;        verify();&#10;        assertThat().isEqualTo();&#10;    }&#10;}" description="Create nested test class" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="tm" value="@Test&#10;@DisplayName(&quot;When then&quot;)&#10;void shouldWhen() {&#10;    when();&#10;    &#10;    verify();&#10;    assertThat().isEqualTo();&#10;}" description="Create test method" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

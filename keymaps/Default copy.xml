@@ -17,4 +17,7 @@
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="ctrl numpad6" />
   </action>
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
 </keymap>

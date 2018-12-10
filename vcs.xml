@@ -30,6 +30,10 @@
           <option name="url" value="https://git.epam.com/maksym_synkevych/2_11_maksym_synkevych.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.epam.com/Mariia_Popova/Mariia_Popova_java_project.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\mentoring" />
